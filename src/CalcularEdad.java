@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class CalcularEdad {
     public static void main(String[] args) {
 
+        // Se calcula la edad con Date
         Scanner s = new Scanner(System.in);
         System.out.println("Escribe una fecha de nacimiento en el formato \"dd-MM-yyyy\"");
 
